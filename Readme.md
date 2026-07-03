@@ -49,13 +49,4 @@ Self-driven analytics project using BigQuery and Looker Studio to track operatio
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saksham2k03&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham2k03&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Open to Data Analyst / Business Analyst opportunities — feel free to reach out!</i></p>
